@@ -5,7 +5,7 @@ import time
 import random
 
 # 更改高德密钥
-amap_key = '818880ba1814671017853a3daaf88ee4'
+amap_key = '..'
 # 更改城市，中文'上海'，或者编码'310000'
 city = '310000'
 
